@@ -1,4 +1,4 @@
-# 📊 AI Strategic Equity Auditor
+# 📊 Equity Auditor
 ### Real-Time Intelligence · RAG · Multi-Agent · Financial Modelling
 
 > A near-production HNI Investment Intelligence Platform that combines live market data, technical indicators, NLP sentiment analysis, RAG pipelines, and ML-based financial modelling into a single Streamlit dashboard.
