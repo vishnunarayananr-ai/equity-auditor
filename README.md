@@ -238,7 +238,7 @@ streamlit run main.py
 ## 👤 Author
 
 **Vishnu Narayanan R**  
-AI / Data Science Intern — Junior Financial Analyst  
+AI / Data Science — Junior Financial Analyst  Intern
 📧 vishnu.r.narayanana25@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/vishnu-narayanan-r)  
 🐙 [GitHub](https://github.com/vishnunarayananr-ai)
