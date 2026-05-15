@@ -4,7 +4,7 @@
 > A near-production HNI Investment Intelligence Platform that combines live market data, technical indicators, NLP sentiment analysis, RAG pipelines, and ML-based financial modelling into a single Streamlit dashboard.
 
 **Built by:** Vishnu Narayanan R  
-**Assessor:** Hariharan Balakrishnan — Veltech Solutions  
+**Assessor:**  Prasad Jay — Veltech Solutions  
 **Stack:** Python · Streamlit · yfinance · scikit-learn · Plotly · SentenceTransformers
 
 ---
