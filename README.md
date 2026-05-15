@@ -31,49 +31,49 @@
 ## 🖥️ Screenshots
 
 ### 🏥 Company Health Audit — Key Metrics & Health Score
-![Company Health Audit](Outputs/Compnay_audit_health1_1.jpg)
+![Company Health Audit](https://github.com/vishnunarayananr-ai/equity-auditor/raw/main/Outputs/Compnay_audit_health1_1.jpg)
 
 ### 📊 Health Score Gauge & Pros/Cons Analysis
-![Health Score Gauge](Outputs/Compnay_audit_health1_2.jpg)
+![Health Score Gauge](https://github.com/vishnunarayananr-ai/equity-auditor/raw/main/Outputs/Compnay_audit_health1_2.jpg)
 
 ### 🧠 AI Strategic Briefing — RAG & News Sentiment
-![RAG Briefing](Outputs/Compnay_audit_health1_3.jpg)
+![RAG Briefing](https://github.com/vishnunarayananr-ai/equity-auditor/raw/main/Outputs/Compnay_audit_health1_3.jpg)
 
 ### 📈 Price Chart & Technical Indicators Overview
-![Price and Technical](Outputs/Compnay_audit_health1_4.jpg)
+![Price and Technical](https://github.com/vishnunarayananr-ai/equity-auditor/raw/main/Outputs/Compnay_audit_health1_4.jpg)
 
 ### 📈 AAPL — Price & Volume Chart
-![Price Chart](Outputs/Charts/Price_chart_AAPL.png)
+![Price Chart](https://github.com/vishnunarayananr-ai/equity-auditor/raw/main/Outputs/Charts/Price_chart_AAPL.png)
 
 ### 📉 RSI (14) — Overbought/Oversold
-![RSI](Outputs/Charts/Technical_Indicators_1_1.png)
+![RSI](https://github.com/vishnunarayananr-ai/equity-auditor/raw/main/Outputs/Charts/Technical_Indicators_1_1.png)
 
 ### 📉 MACD — Signal Line & Histogram
-![MACD](Outputs/Charts/Technical_Indicators_1_2.png)
+![MACD](https://github.com/vishnunarayananr-ai/equity-auditor/raw/main/Outputs/Charts/Technical_Indicators_1_2.png)
 
 ### 📉 Bollinger Bands
-![Bollinger Bands](Outputs/Charts/Technical_Indicators_1_3.png)
+![Bollinger Bands](https://github.com/vishnunarayananr-ai/equity-auditor/raw/main/Outputs/Charts/Technical_Indicators_1_3.png)
 
 ### 🔁 Backtesting — MA Strategy vs Buy & Hold
-![Backtest Chart](Outputs/Charts/BACKTESTING___MA_CROSSOVER_STRATEGY1_1.png)
+![Backtest Chart](https://github.com/vishnunarayananr-ai/equity-auditor/raw/main/Outputs/Charts/BACKTESTING___MA_CROSSOVER_STRATEGY1_1.png)
 
 ### ⚠️ Stress Test — Crash Scenarios
-![Stress Test](Outputs/Charts/BACKTESTING___MA_CROSSOVER_STRATEGY1_2.png)
+![Stress Test](https://github.com/vishnunarayananr-ai/equity-auditor/raw/main/Outputs/Charts/BACKTESTING___MA_CROSSOVER_STRATEGY1_2.png)
 
 ### 🔍 Market Screener — Magnificent Seven
-![Screener Mag7](Outputs/Market_Screener1_1.jpg)
+![Screener Mag7](https://github.com/vishnunarayananr-ai/equity-auditor/raw/main/Outputs/Market_Screener1_1.jpg)
 
 ### 🔍 Market Screener — $100B–$500B & Under $100B
-![Screener Tiers](Outputs/Market_Screener1_2.jpg)
+![Screener Tiers](https://github.com/vishnunarayananr-ai/equity-auditor/raw/main/Outputs/Market_Screener1_2.jpg)
 
 ### 🔍 Market Screener — All Tiers
-![Screener All](Outputs/Market_Screener1_3.jpg)
+![Screener All](https://github.com/vishnunarayananr-ai/equity-auditor/raw/main/Outputs/Market_Screener1_3.jpg)
 
 ### 🔁 Backtest & Stress Test Overview
-![Backtest Overview](Outputs/Backtest_Stress_test1_1.jpg)
+![Backtest Overview](https://github.com/vishnunarayananr-ai/equity-auditor/raw/main/Outputs/Backtest_Stress_test1_1.jpg)
 
 ### ⚠️ Outlier Detection
-![Outlier Detection](Outputs/Backtest_Stress_test1_2.jpg)
+![Outlier Detection](https://github.com/vishnunarayananr-ai/equity-auditor/raw/main/Outputs/Backtest_Stress_test1_2.jpg)
 
 ---
 
@@ -238,7 +238,7 @@ streamlit run main.py
 ## 👤 Author
 
 **Vishnu Narayanan R**  
-AI / Data Science — Junior Financial Analyst  Intern
+AI / Data Science — Junior Financial Analyst Intern  
 📧 vishnu.r.narayanana25@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/vishnu-narayanan-r)  
 🐙 [GitHub](https://github.com/vishnunarayananr-ai)
